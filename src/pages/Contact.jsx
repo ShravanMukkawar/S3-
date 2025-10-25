@@ -85,7 +85,7 @@ export default function Contact(){
             <div className="space-y-6">
               <div>
                 <div className="text-sm text-slate-400 mb-2">📧 Email</div>
-                <a href="mailto:mukkawarshravan04@gmail.com" className="text-cyan-400 hover:text-cyan-300 transition font-medium">mukkawarshravan04@gmail.com</a>
+                <a href="mailto:mys3solutions2025@gmail.com" className="text-cyan-400 hover:text-cyan-300 transition font-medium">mys3solutions2025@gmail.com</a>
               </div>
               <div>
                 <div className="text-sm text-slate-400 mb-2">📞 Phone</div>

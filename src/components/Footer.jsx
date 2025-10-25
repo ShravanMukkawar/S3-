@@ -19,7 +19,7 @@ export default function Footer(){
             <div className="space-y-2">
               <div className="text-sm">
                 <div className="text-slate-400">Email:</div>
-                <a href="mailto:mukkawarshravan04@gmail.com" className="text-cyan-400 hover:text-cyan-300 transition">mukkawarshravan04@gmail.com</a>
+                <a href="mailto:mys3solutions2025@gmail.com" className="text-cyan-400 hover:text-cyan-300 transition">mys3solutions2025@gmail.com</a>
               </div>
               <div className="text-sm">
                 <div className="text-slate-400">Phone:</div>
