@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Projects from './pages/Projects'
 import Contact from './pages/Contact'
 import Footer from './components/Footer'
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 export default function App(){
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950 text-slate-100 flex flex-col">
@@ -15,6 +15,7 @@ export default function App(){
         <Contact />
       </main>
       <Footer />
+      <Analytics />
     </div>
   )
 }
