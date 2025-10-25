@@ -7,8 +7,8 @@ export default function Home(){
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <Reveal delay={100}>
           <div>
-            <h1 className="text-5xl font-black mb-6 bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">We build modern websites for your business</h1>
-            <p className="text-slate-300 mb-8 text-lg leading-relaxed">We design and develop fast, accessible, and SEO-friendly websites for restaurants, clinics, villas and more. Production-ready solutions with booking flows, online menus, admin dashboards, and more.</p>
+            <h1 className="text-3xl md:text-5xl font-black mb-6 bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">We build modern websites for your business</h1>
+            <p className="text-slate-300 mb-8 text-base md:text-lg leading-relaxed">We design and develop fast, accessible, and SEO-friendly websites for restaurants, clinics, villas and more. Production-ready solutions with booking flows, online menus, admin dashboards, and more.</p>
             <a href="#contact" className="btn-primary">Get a quote</a>
           </div>
         </Reveal>
